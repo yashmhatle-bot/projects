@@ -1,5 +1,5 @@
 # projects
 
-Author  Yash Mhatle
+Author :- Yash Mhatle
 
-creator Yash Mhatle
+creator:- Yash Mhatle
